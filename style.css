@@ -1,0 +1,12 @@
+body{
+	background: white;
+}
+
+.container{
+	background: #dfe6e9;
+	border-radius: 10px;
+}
+
+#alert{
+	display: none;
+}
